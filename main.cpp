@@ -2,7 +2,8 @@
 #include <conio.h>
 #include <cstring>
 #include <list>
-
+#include<cmath>
+#include"OurFactory.h"
 using namespace std;
 
 #define ITEM_MAX 100
