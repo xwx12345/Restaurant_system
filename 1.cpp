@@ -2,8 +2,7 @@
 #include<string>
 #include<cmath>
 #include"OurFactory.h"
-#include<cmath>
-#include"OurFactory.h"
+
 using namespace std;
 
 int main() {
